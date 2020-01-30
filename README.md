@@ -11,4 +11,4 @@ To train a deep learning model which can identify various objects in satellite i
 
 ## Image Augmentation
 <br>
-<img src = "aug 1.jpg">
+<img src = "aug 1.JPG">
